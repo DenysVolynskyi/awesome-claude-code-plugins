@@ -323,6 +323,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [notfair](./plugins/notfair)
 - [social-vision](./plugins/social-vision)
 - [x-skills](https://github.com/sergebulaev/x-skills)
+- [variafy](https://github.com/DenysVolynskyi/variafy-plugins) - Meta (Facebook and Instagram) ads in Claude Code via MCP: ad results, CRM payments matched to ads and account alerts; ad changes are previewed and applied only after you confirm.
 - [yaohe](./plugins/yaohe)
 
 ### Project & Product Management
